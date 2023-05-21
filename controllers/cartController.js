@@ -1,5 +1,5 @@
 //import cart collection 
-const carts=require('../models/cartschema')
+const carts=require('../models/cartSchema')
 
 //add to cart
 exports.addtocart=async(req,res)=>{
